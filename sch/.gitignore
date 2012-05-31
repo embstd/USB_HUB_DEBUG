@@ -1,0 +1,5 @@
+*.opj
+*.DBK
+*.DSNlck
+*.bak
+allegro/*

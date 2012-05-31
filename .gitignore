@@ -1,0 +1,38 @@
+﻿
+#################
+## Candence
+#################
+*.art*
+*.txt*
+pcb/*.zip
+*.drl*
+*.log*
+*.tag*
+pcb/signose.run/*
+*.lst*
+*.jrl*
+*.cfg*
+*.html*
+*.iml*
+
+
+
+############
+## Backup
+############
+Backup*/
+*.bak
+*.swp
+UpgradeLog*.XML
+
+
+
+############
+## Windows
+############
+
+# Windows image file caches
+Thumbs.db 
+
+# Folder config file
+Desktop.ini
