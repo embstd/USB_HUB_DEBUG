@@ -14,7 +14,10 @@ pcb/signose.run/*
 *.cfg*
 *.html*
 *.iml*
-
+*.plottofile*
+*.dat*
+*.rpt*
+*.dcf*
 
 
 ############
